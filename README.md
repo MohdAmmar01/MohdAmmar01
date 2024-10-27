@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="100%" src="https://raw.githubusercontent.com/MohdAmmar01/MohdAmmar01/refs/heads/main/Images/banner.gif" />
+
 <h1 align="center">Hi 👋, I'm Mohd Ammar</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/MohdAmmar01/MohdAmmar01/refs/heads/main/Images/img.gif" />
