@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Ammar</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-<img align="right" alt="coding" width="500" src="https://drive.google.com/file/d/1gLXDh2IinNp_yPYz7NZpcfy6rC_-H0od" />
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/MohdAmmar01/MohdAmmar01/refs/heads/main/Images/img.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdammar01&label=Profile%20views&color=0e75b6&style=flat" alt="mohdammar01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
